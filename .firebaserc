@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-sample-b356f"
-  }
+    "default": "todoappreactjs-dd325",
+    "hai": "todoappreactjs-dd325"
+  },
+  "targets": {}
 }
